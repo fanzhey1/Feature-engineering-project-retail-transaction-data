@@ -1,5 +1,6 @@
 # Retail Transaction Data Analysis
 
+** This project is adapted from projects of CHE1147/CHE1148 at University of Toronto, under the supervision of Dr. Nikolaos Anesiadis. **
 This purpose of this project is to analyze a retail transaction dataset in Kaggle and try to predict the client's response to a promotion campaign (https://www.kaggle.com/datasets/regivm/retailtransactiondata?select=Retail_Data_Response.csv). Major topics included: Feature engineering; Machine learning algorithms (Logistic regression, Decision tree algorithm, Random forest algorithm); Model assessing and agnostic methods. The project is coded in both Python and PySpark.
 
 In the first part, I built a wide range of features, which fall into two categories: monthly and annual.
